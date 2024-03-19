@@ -1,3 +1,3 @@
-## 0.0.1
+# 1.0.0 | Initial Release 🥳
 
-* TODO: Describe initial release.
+The initial release of this package.
